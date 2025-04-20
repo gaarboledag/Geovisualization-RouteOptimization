@@ -1,0 +1,7 @@
+venv/
+bogotageop/
+ipynb_checkpoints/
+cache/
+*.pyc
+.DS_Store
+.ipynb_checkpoints/
